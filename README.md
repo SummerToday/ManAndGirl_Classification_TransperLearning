@@ -15,7 +15,7 @@ ResNet 모델을 활용한 2D 이미지를 통해 남녀 구분 딥러닝 모델
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"><img src="https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
 <br></br>
 
-# 연구 보고서
+# 🔎 연구 보고서
 ![KakaoTalk_20240123_220516660](https://github.com/SummerToday/ManAndGirl_Classification_TransperLearning/assets/88650436/797c31fe-43c5-4a96-b7f4-3095b2e04747)
 ![KakaoTalk_20240123_220516660_01](https://github.com/SummerToday/ManAndGirl_Classification_TransperLearning/assets/88650436/f4ec68f3-9be6-492a-8078-1b4584ab6712)
 
