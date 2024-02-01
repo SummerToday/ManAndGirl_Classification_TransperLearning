@@ -1,5 +1,5 @@
 # ManAndGirl_Classification_ResNet_Model
-ResNet 모델을 활용한 2D 이미지를 통해 남녀 구분 딥러닝 모델
+ResNet 모델을 활용한 2D 이미지를 통해 남녀 구분 딥러닝 모델.
 <br></br>
 
 ## 💻 프로젝트 소개
